@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "careful-airfoil-437811-a5",
+  "private_key_id": "cc38aab56d4dc63b49d8844e6eb8d634ad2d8b8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC767oOVJ2BIJnw\nvxqM9KCdeFb8AZrXsZ2JSuZR+SRRL6X7jxag2ljz7iLsfynU6u2fo/aEtHNyEflK\nIl9ePVsV4n87qFw136NdK4ho4iYb8Bls6SG6kpHDRk4IiYneLYGy7Tg1TB1ywYIT\nf39qvo6ZDDEiAARvWlD6IYZ9ms7s8N76MJCA/ImayemnrQjCLCcJuu+e1aT7f3rx\ngGL6pnT3W8A8BBY+41onOqOBMzzOZmZVhBmkgNy5foEdok4gXschVjRbFGM2vLOi\nclDRdiOrnxZhmIKUT6urrUgJVa2xpNnS0M1Yu9c+yBXFBI95mEkD5gDNt7D4sqlD\nZ0mkb4lLAgMBAAECggEAEuUNRJKacZjTEaNNap3QJnUqndUVehmIQv0uclCQJ7+Y\nO1Z0SoEZz5ECnu/cR2XFtbb5Ovef4fjPrXYOS730khs/esKfXuVZGi2d3hnbBhUa\noVpBg25oTI+dmfsmSxodP93dOHKqRVcSmp5Hs/ZsBRR2PjptN7sHiFblnGx74NPd\nJB0IZGJeC+YEplT5tFOWyzKE/fA6s6FkbKFnn7E3KaajddeKbFFXGyBYm548+Q10\nD2uJkYK1pdJ+gzCRn/cPLxCVvUMZeeqNIOcs2Ys3Lj/AfcMQmIyWAARv9DVaKYX4\nmmhcaqbS4n4Jva2I5R6l8oGyajwwiooBWbvVhCEL7QKBgQDcBmjcJSuD9z1z2VL7\nMu0HoEVZtzpFKr4raW0PWPn4UQlfyAQ16/HA4FCS3C9Tye5gdpxo4vCQ4oZokVbS\nF76M/IM65byRMVT4HQMFhcUo9fllfidulHEDS63fSlpX00OsnGBL7hPEitkzj5RA\nY69kvs2QlomZa4vAtUDKBSztdwKBgQDapYezD3d+4N7R084nYgOepyjtgywBl0rz\n9kKE6JmhiuvKM+XCTHcM5RyyTK1Uhc1kByFOE3eozkfcV+Irkx4sCV3Kv2CcT5F0\nkGXh9zXMNTZ5cwwh+x9+9QwEWk9zNHwYMx6FJUzuJwdAs8RlcAUYDO7Bc+/YFN8e\nVVhQRAnnzQKBgQDJ/WRkvgbt9ptG8Ht6uyzZdGxWSZzIBM5iwj1p+pA5RAPsF46u\nBfaB0CyINnWIYXhivGEo9TZOfHdSJiNjaoL3oZXEC0aKsJRF1zR/7GetC+uyHheL\nL+F0WhS8SeEYgY2+OC07Z8xkAegWqrg6SImrXnMPSvP1kcLR3lQlYoz1TwKBgQDP\nMX1eWZHLUhzUifoZp+/2MEHAkUTqXQxSE1MFz8WGJ7c5beSUMxG9zn9bFv5J0mHI\nIFmXOytxc8j1LPLOiCNXZ6jRsHlEpsIXy55Ae5snYGW2wScGLIq0LFKu7UXMzjeq\nVwbc9XPpWmKtFa1O0tCA8gBuogbupRiqDgYaSd95IQKBgQCD5TkjkIS6mYDY6PxT\nBlThKRhL4wCJuD2naKENRPeEX2Poi3sEOu1e0z5Kom6C9B8yGLdigOOSfrjbxTZX\nPuIgPJ+rzxJ1rTOuswuESLIhuzoSBN5XCn7HvqtUpDTf9T8RIQMx2ikhHhBPrOJk\nlc2sWUBoFUWXOHNP8mgtiwLSSw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "drive-api@careful-airfoil-437811-a5.iam.gserviceaccount.com",
+  "client_id": "101094755755308775275",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drive-api%40careful-airfoil-437811-a5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+  
